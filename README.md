@@ -3,7 +3,8 @@
 
 ## Languages
 
-<img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="30" height="30"> <img src="https://simpleicons.org/icons/c.svg" alt="C" width="30" height="30"> <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"> <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="30" height="30"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30">
+
 
 - **C++**: Object-oriented programming, STL, templates
 
