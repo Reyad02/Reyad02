@@ -10,7 +10,7 @@
 
 - **C**: Systems programming, low-level memory manipulation
 
-- **Python**: Data analysis (NumPy, Pandas)
+- **Python**: Machine Learning
 
 - **JavaScript**: Front-end development (React, Vue.js), Node.js
 
