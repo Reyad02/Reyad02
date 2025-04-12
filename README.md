@@ -3,16 +3,16 @@
 
 ## Languages
 
- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="30" height="30"> 
+ <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="30" height="30">
+ <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="30" height="30"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"> 
 
 - **JavaScript**: Front-end development (React, Vue.js), Node.js
 
-- **C++**: Object-oriented programming, STL, templates
+- **TypeScript**: Type-safe JavaScript, scalable front-end and back-end development
 
 - **Python**: Machine Learning
 
-- **C**: Systems programming, low-level memory manipulation
-
+- **C++**: Object-oriented programming, STL, templates
 
 
 
