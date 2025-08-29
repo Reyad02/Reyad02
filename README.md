@@ -50,3 +50,10 @@ class Reyad:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/al-momen-reyad)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/u/reyad02/)
+
+---
+
+## Publications
+
+1. **E-MedViTR: Enhanced Vision Transformers with Registers for Biomedical Image Classification** – *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)* [PDF](https://ieeexplore.ieee.org/document/10534573) | [DOI](https://doi.org/10.1109/ICEEICT62016.2024.10534573)  
+2. **An Ensemble Deep Learning Approach to Detect Common Chicken Diseases from Fecal Matter Images** – *ICCA '24: Proceedings of the 3rd International Conference on Computing Advancements* [PDF](https://dl.acm.org/doi/pdf/10.1145/3723178.3723198) | [DOI](https://dl.acm.org/doi/10.1145/3723178.3723198)  
