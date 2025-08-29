@@ -30,8 +30,9 @@ class Reyad:
                 "python": ["Flask"]
             },
             "ai_ml": {
-                "frameworks": ["PyTorch", "TensorFlow", "scikit-learn", "OpenCV"],
-                "llm": ["LangChain", "OpenAI", "Groq", "DeepSeek"],
+                "libraries": ["PyTorch", "TensorFlow", "scikit-learn", "OpenCV", "NumPy"],
+                "llm_nlp": ["LangChain", "OpenAI", "Groq", "DeepSeek"],
+                "speech_and_audio": ["Whisper", "Deepgram", "AssemblyAI"],
                 "vector_databases": ["Pinecone", "ChromaDB", "FAISS"],
             },
             "databases": ["MongoDB", "MySQL", "SQLite"],
