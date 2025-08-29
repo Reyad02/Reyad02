@@ -16,7 +16,7 @@ class Reyad:
     def __init__(self):
         self.name = "Al-Momen Reyad"
         self.code = ["Python", "JavaScript", "TypeScript", "C++"]
-        self.ask_me_about = ["AI", "Deep Learning", "Web Dev", "ML"]
+        self.ask_me_about = ["AI", "Deep Learning", "Web Dev", "ML", "MERN Stack"]
         
         self.technologies = {
             "frontend": {
